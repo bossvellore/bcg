@@ -1,0 +1,1 @@
+<resources><style name="Theme.Custom" parent="@android:style/Theme.Material.Light"><item name="android:colorPrimary">#ff00897b</item></style></resources>
